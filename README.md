@@ -9,6 +9,4 @@ Use <a href='http://code.google.com/p/awd/'>AWD</a> format with advanced techniq
    <img src="http://perso.numericable.fr/chamaslot/assets/Intermediate_Hero.jpg" alt="See demo" /></a><br>
 2/ Intermediate_Car
    <a target='_blank' href='http://perso.numericable.fr/chamaslot/Intermediate_Car.html'>
-   <img src="http://perso.numericable.fr/chamaslot/assets/Intermediate_Car.jpg" alt="See demo" /></a><br>
-   
-For advanced version contact me
+   <img src="http://perso.numericable.fr/chamaslot/assets/Intermediate_Car.jpg" alt="See advanced demo" /></a><br>
